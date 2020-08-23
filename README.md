@@ -23,5 +23,5 @@ This repo is designed to illustrate my demonstrated project experience in buildi
   - I first used DNN to create a neural network for NLP. Afterwards, I also applied TFIDF neural network (term frequency document frequency). After building the neural network on training data, the network is then applied to testing data for accuracy testing. 
   - The TFIDF accuracy rate on testing data is higher than the DNN one. 
 
--  Shared Savings Program Visualization (Python)
+- Shared Savings Program Visualization (Python)
   - Simple data visualization on official healthcare data that provides insights on how the program performs since inception.
