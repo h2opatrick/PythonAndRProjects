@@ -24,3 +24,4 @@ This repo is designed to illustrate my demonstrated project experience in buildi
   - The TFIDF accuracy rate on testing data is higher than the DNN one. 
 
 -  Shared Savings Program Visualization (Python)
+  - Simple data visualization on official healthcare data that provides insights on how the program performs since inception.
